@@ -3,10 +3,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies.
-- 🎓 &nbsp; Studying Computer Science at RIT,Bangalore.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- :bulb:  &nbsp; I'm interested in all things data: **Cloud, Machine Learning , Web Development**
+- 🤔 &nbsp; Exploring new technologies everyday.
+- 🎓 &nbsp; Working at Shell as Systems Engineer
+- 🌱 &nbsp; Learning more about Azure, MLOps, Databricks
+- :bulb:  &nbsp; I'm interested in all things data: **GenAI, Deep Learning , Autonomous Technology**
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
