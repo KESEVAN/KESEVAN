@@ -1,17 +1,18 @@
 # Hi there, I'm Kesevan / K7
 
-### Associate MTS Engineer @ Shell | AI & Cloud Enthusiast
+### Systems Engineer @ Shell | Cloud & AI
 
-I am a passionate engineer exploring the intersection of **Systems Engineering**, **Cloud Computing**, and **Artificial Intelligence**. My focus is on building scalable, intelligent systems using modern DevOps practices.
+I’m an engineer working at the intersection of **systems engineering**, **cloud platforms**, and **applied AI**.  
+My focus is on building scalable, reliable systems and gradually moving toward deeper backend and AI ownership.
 
 ---
 
 ### Focus Areas
 
-- **Current Role**: Enterprise-scale AUTH systems at **Shell**.
-- **Learning**: Advanced **MLOps**, **Azure** Architecture, and **Databricks**.
-- **Interests**: Generative AI, Deep Learning, and Autonomous Technology.
-- **Recent Project**: [Docktorate](https://github.com/KESEVAN/docktorate) - A comprehensive journey into Docker & Kubernetes orchestration.
+- **Current Role**: Enterprise-scale **Identity & Access Management (IAM)** systems at Shell  
+- **Learning**: Advanced **MLOps**, **Azure architecture**, and **Databricks**
+- **Interests**: Generative AI, Machine Learning, Autonomous Systems
+- **Recent Project**: [Docktorate](https://github.com/KESEVAN/docktorate) — a hands-on deep dive into Docker & Kubernetes orchestration
 
 ---
 
@@ -26,11 +27,36 @@ I am a passionate engineer exploring the intersection of **Systems Engineering**
 
 ---
 
-### Stats
+### Activity
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kesevan&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesevan&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+<div align="center">
+
+  <img
+    src="https://metrics.lecoq.io/kesevan
+    ?template=classic
+    &base.header=0
+    &isocalendar=1
+    &isocalendar.duration=half-year
+    &followup=1
+    &languages=0
+    &achievements=0
+    &stars=0
+    &people=0
+    &hide_border=true"
+    alt="Kesevan GitHub Metrics"
+  />
+
+  <br/>
+
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph
+    ?username=kesevan
+    &hide_border=true
+    &theme=github-dark
+    &area=true"
+    alt="Kesevan Activity Graph"
+  />
+
 </div>
 
 ---
@@ -39,12 +65,12 @@ I am a passionate engineer exploring the intersection of **Systems Engineering**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/kesevan">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://kesevan.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="mailto:kesevanbalaji@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
