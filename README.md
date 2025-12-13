@@ -38,10 +38,10 @@ I am a passionate engineer exploring the intersection of **Systems Engineering**
 ### Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/kesevan-balaji-030477177/">
+  <a href="https://www.linkedin.com/in/kesevan">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://kesevan.github.io/Portfolio/">
+  <a href="https://kesevan.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:kesevanbalaji@gmail.com">
