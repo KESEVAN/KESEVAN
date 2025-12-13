@@ -1,57 +1,50 @@
-<img src="https://media-exp1.licdn.com/dms/image/C5616AQF6M-NlEkS1aw/profile-displaybackgroundimage-shrink_350_1400/0/1594737035396?e=1665014400&v=beta&t=A9suMZTre7wWBHo2gQN-1RUOUtGJAxaTovjvxnZ6xdU">
+# Hi there, I'm Kesevan / K7
 
+### Associate MTS Engineer @ Shell | AI & Cloud Enthusiast
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+I am a passionate engineer exploring the intersection of **Systems Engineering**, **Cloud Computing**, and **Artificial Intelligence**. My focus is on building scalable, intelligent systems using modern DevOps practices.
 
-- 🤔 &nbsp; Exploring new technologies everyday.
-- 🎓 &nbsp; Working at Shell as Systems Engineer
-- 🌱 &nbsp; Learning more about Azure, MLOps, Databricks
-- :bulb:  &nbsp; I'm interested in all things data: **GenAI, Deep Learning , Autonomous Technology**
+---
 
+### Focus Areas
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+- **Current Role**: Enterprise-scale AUTH systems at **Shell**.
+- **Learning**: Advanced **MLOps**, **Azure** Architecture, and **Databricks**.
+- **Interests**: Generative AI, Deep Learning, and Autonomous Technology.
+- **Recent Project**: [Docktorate](https://github.com/KESEVAN/docktorate) - A comprehensive journey into Docker & Kubernetes orchestration.
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+---
 
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-<!--   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) -->
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-<!--   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) -->
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-<!--   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown) -->
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Tensorflow](https://img.shields.io/badge/-Tensorflow-333333?style=flat&logo=tensorflow)
-  
-  
+### Technical Skills
 
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
+| **Cloud & DevOps** | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) |
+| **Data & AI** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![MLOps](https://img.shields.io/badge/MLOps-000000?style=flat-square&logo=github-actions&logoColor=white) ![GenAI](https://img.shields.io/badge/GenAI-412991?style=flat-square&logo=openai&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
 
-<br/>
+---
 
-<a href="https://github.com/KESEVAN">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kesevan" />
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesevan&theme=buefy&layout=compact" />
-</a>
+### Stats
 
-<br/>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=kesevan&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesevan&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+---
 
-<p align="center">
-<a href="https://kesevan.github.io/Portfolio/"><img alt="Website" src="https://img.shields.io/badge/Website-kesevan.github.io/Portfolio-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/kesevan-balaji-030477177/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kesevan%20Sekar%20Balaji-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/k7_for_life/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-k7_for_life-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:kesevanbalaji@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kesevanbalaji@gmail.com-blue?style=flat-square&logo=gmail"></a>
+### Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/kesevan-balaji-030477177/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://kesevan.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:kesevanbalaji@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
-
