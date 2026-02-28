@@ -1,6 +1,6 @@
 # Hi there, I'm Kesevan / K7
 
-### Systems Engineer @ Shell | Cloud & AI
+### MTS Engineer @ Shell | Cloud & AI
 
 I’m an engineer working at the intersection of **systems engineering**, **cloud platforms**, and **applied AI**.  
 My focus is on building scalable, reliable systems and gradually moving toward deeper backend and AI ownership.
